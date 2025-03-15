@@ -2,7 +2,10 @@
 ## 劉文正 | 程式開發 & 機電技術
 💻 擅長 C/C++、Python、JavaScript  
 🛠️ 具備機電維護與監控系統經驗:
-https://gamma.app/docs/-zjkvw8fwk0927ny
+
+中文版介紹投影片-----https://gamma.app/docs/-zjkvw8fwk0927ny
+
+English version introduction slides-----https://gamma.app/docs/Mechatronics-Engineers-Guide-to-Building-Systems-fbmx9vdnxisvub0
 
 🎯 目標：成為 AI 工程師 / 軟體開發者  
 Here are some ideas to get you started:
