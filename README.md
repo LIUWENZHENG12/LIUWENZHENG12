@@ -27,7 +27,7 @@ English version introduction slides--https://gamma.app/docs/Mechatronics-Enginee
 📬 **聯絡方式**
 - 📧 Email: [s0960514@gmail.com](mailto:s0960514@gmail.com)
 - 🔗 LinkedIn: [點此查看](https://www.linkedin.com/in/你的個人頁面)
-
+- 🔗 facebook: https://www.facebook.com/liu.wen.zheng.237231/?viewas=100000686899395
 <!--
 **LIUWENZHENG12/LIUWENZHENG12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:--!>
