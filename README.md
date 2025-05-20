@@ -26,7 +26,7 @@ English version introduction slides--https://gamma.app/docs/Mechatronics-Enginee
 
 📬 **聯絡方式**
 - 📧 Email: [s0960514@gmail.com](mailto:s0960514@gmail.com)
-- 🔗 LinkedIn: [點此查看](www.linkedin.com/in/文正-劉-4b8972239)
+- 🔗 LinkedIn: [點此查看](www.linkedin.com/in/文正-劉-4b8972239](https://www.linkedin.com/in/%E6%96%87%E6%AD%A3-%E5%8A%89-4b8972239/))
 
   
 <!--
