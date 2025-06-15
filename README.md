@@ -7,7 +7,7 @@
 
 English version introduction slides--https://gamma.app/docs/Mechatronics-Engineers-Guide-to-Building-Systems-fbmx9vdnxisvub0
 
-🎯 目標：成為 AI 工程師 / 軟體開發者  
+🎯 目標：成為 機電工程師
 
 ### 🔧 技術專長
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
